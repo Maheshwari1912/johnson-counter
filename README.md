@@ -14,3 +14,7 @@ systems or as counters in various applications.
 generating timing sequences. 
 
 By circulating and complementing the MSB (most significant bit), the Johnson counter efficiently utilizes all 2N states with fewer flip-flops than conventional counters.
+
+**simulation results:**
+
+![image](https://github.com/user-attachments/assets/edf9d1f1-1551-4793-8f2e-840af3799bd5)
